@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal-123-456&label=Profile%20views&color=0e75b6&style=flat" alt="nihal-123-456" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihal-123-456" alt="nihal-123-456" /></a> </p>
-
 - 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **knasn1526@gmail.com**
