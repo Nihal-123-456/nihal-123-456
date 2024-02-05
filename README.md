@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kazi nihal ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kazi nihal ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/kazi nihal ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kazi nihal ahmed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@knasn1526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@knasn1526" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kazi-nihal-ahmed-537174212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kazi-nihal-ahmed-537174212" height="30" width="40" /></a>
+<a href="https://fb.com/nihal.kazi.129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nihal.kazi.129" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/knasn1526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="knasn1526" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nihal_01290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nihal_01290" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sos_tbd_7800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sos_tbd_7800" height="30" width="40" /></a>
 </p>
