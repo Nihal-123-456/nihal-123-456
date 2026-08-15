@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **knasn1526@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ydl1Elg-sxDmFiRCo2C6nDJ6mP8nooDr/view?usp=sharing](https://drive.google.com/file/d/1Ydl1Elg-sxDmFiRCo2C6nDJ6mP8nooDr/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zJDu5ZUmS_Ik6fSYRjcfAWwq08WTRj-l/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
