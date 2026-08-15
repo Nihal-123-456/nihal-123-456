@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal-123-456&label=Profile%20views&color=0e75b6&style=flat" alt="nihal-123-456" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Redis and RAG**
 
 - 📫 How to reach me **knasn1526@gmail.com**
 
